@@ -18,11 +18,22 @@ public class CatCorrect {
         owners_name=o;
     }
 
-    public boolean equals(CatCorrect cat)
+    @Override
+    public boolean equals(Object o)
     {
-        return (name.equals(cat.name)) && (age==cat.age) && (owners_name.equals(cat.owners_name));
+        if (o == this)
+        {
+            return true;
+        }
+        if (!(o instanceof CatCorrect))
+        {
+            return false;
+        }
+        CatCorrect cat = (CatCorrect) o;
+        return (age==cat.age)&& (name.equals(cat.name)) && (owners_name.equals(cat.owners_name));
     }
 
+    @Override
     public int hashCode()
     {
         int res = age*17393;

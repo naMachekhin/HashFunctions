@@ -4,16 +4,34 @@ Original text: "abcd "
 (MessageDigest) SHA-1 : d9f370f4d89b9a648037e8be2ed781753db9524
 
 Generating new random...
-(SecureRandom) MD2 : 961874a74bcf6a781b43c92d6913b6f
-(SecureRandom) MD5 : a72235ae83be7ccff0d371f2b51c9f6
-(SecureRandom) SHA-1 : 4bf27384aa9ee67ede245499eb093c6e3106e33
+(SecureRandom) MD2 : c7547668e136f1b18640c42a7ef79dc7
+(SecureRandom) MD5 : 31344cae188512e48763afdb35d825bb
+(SecureRandom) SHA-1 : 7fc4caa5d5225d1eabf0c2cdaa8d8573352
 
 Generating new random...
-(SecureRandom) MD2 : b4de74d0e9302e13db1fd527812fc738
-(SecureRandom) MD5 : c9c27289df618726f856b6f2b6a07f5
-(SecureRandom) SHA-1 : eb7ba75905eda942e202479e3b5d5df3a6b13bd
+(SecureRandom) MD2 : 997a73ad7bce1e90d33e4629e725f79
+(SecureRandom) MD5 : 743bea895d084739c2c4ce2fc3891b
+(SecureRandom) SHA-1 : 4c3c351dce7c53809d78eace719aa310515424
 
 Generating new random...
-(SecureRandom) MD2 : ee58c53ebc1cf74ca9c4cc37a282874e
-(SecureRandom) MD5 : f9346ee9e999266073cdf07425329ef4
-(SecureRandom) SHA-1 : eae021ff65503b12901e932ab51ab6f33cb5f5
+(SecureRandom) MD2 : 3494156af9b52dfea293a98071162ecf
+(SecureRandom) MD5 : 7f12ce9a9f1b777337851865ce6517c2
+(SecureRandom) SHA-1 : 15b1456bd51d1522f9bfde4893b52733f5fa96ef
+
+
+Testing hashmap with correct class:
+Testing overwriting: id2
+id2  757540102
+id4  -411492950
+id3  1501740586
+id5  1080271673
+
+
+Testing hashmap with correct class:
+Testing overwriting: id2
+null  1000002
+null  69001
+null  67502
+null  4752
+null  3150001
+null  29002
