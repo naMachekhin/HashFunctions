@@ -1,0 +1,19 @@
+Original text: "abcd "
+(MessageDigest) MD2 : 10883eccd8a8f3aff5ba6a97a75b13ec
+(MessageDigest) MD5 : bf8b2e6916156d2a4e64771a44c1d3f5
+(MessageDigest) SHA-1 : d9f370f4d89b9a648037e8be2ed781753db9524
+
+Generating new random...
+(SecureRandom) MD2 : 961874a74bcf6a781b43c92d6913b6f
+(SecureRandom) MD5 : a72235ae83be7ccff0d371f2b51c9f6
+(SecureRandom) SHA-1 : 4bf27384aa9ee67ede245499eb093c6e3106e33
+
+Generating new random...
+(SecureRandom) MD2 : b4de74d0e9302e13db1fd527812fc738
+(SecureRandom) MD5 : c9c27289df618726f856b6f2b6a07f5
+(SecureRandom) SHA-1 : eb7ba75905eda942e202479e3b5d5df3a6b13bd
+
+Generating new random...
+(SecureRandom) MD2 : ee58c53ebc1cf74ca9c4cc37a282874e
+(SecureRandom) MD5 : f9346ee9e999266073cdf07425329ef4
+(SecureRandom) SHA-1 : eae021ff65503b12901e932ab51ab6f33cb5f5
